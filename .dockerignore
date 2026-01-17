@@ -1,0 +1,7 @@
+.git
+__pycache__
+*.tar
+*.tar.gz
+*_backup
+local_test
+test

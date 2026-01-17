@@ -1,7 +1,8 @@
 numpy<2
-tifffile
 scikit-image
 tqdm
 tensorboard
 zarr
 numcodecs
+pillow
+opencv-python-headless
